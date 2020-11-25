@@ -6,4 +6,4 @@ pip install tkinter
 
 or
 
-pip3 insdtall tkinter
+pip3 install tkinter
